@@ -26,3 +26,5 @@ NODE_ENV=production JWT_SECRET=... npm start
 
 O servidor entrega a app compilada e a API na mesma porta. Precisa de um disco persistente
 (o ficheiro `data.db`) e de ficar sempre ligado, porque as tarefas agendadas correm dentro do processo.
+
+Deploy: https://rastreador-gastos-8ff1.onrender.com
